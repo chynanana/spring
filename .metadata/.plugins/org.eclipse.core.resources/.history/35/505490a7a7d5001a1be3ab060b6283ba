@@ -1,0 +1,5 @@
+package com.example.demo.Repos;
+
+public interface LinkRepo extends JpaRepository<Link, Integer>{
+
+}

@@ -1,0 +1,19 @@
+package Controllers;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class SiteController {
+	
+	@Autowired
+	StudentRepo repo;
+	
+	@CrossOrigin(origins = "*")
+	@GetMapping("/all")
+	public List<Student> showAll(){
+		List<Student> records= repo.findAll();
+		return records;
+	}
+	
+
+}

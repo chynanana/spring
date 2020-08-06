@@ -1,0 +1,34 @@
+package com.qa.demo;
+
+import org.junit.jupiter.api.Test;
+import org.junit.runner.RunWith;
+import org.mockito.junit.MockitoJUnitRunner;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.boot.test.mock.mockito.MockBean;
+@RunWith(MockitoJUnitRunner.class) 
+@SpringBootTest
+class DemoApplicationTests {
+	
+	
+	@MockBean 
+	private repo = repo;
+	
+	@Test
+	void contextLoads() {
+	}
+
+	
+	@Autowired
+	CardService = cardservice();
+	
+	@Test
+	public void CreateTest() {
+		card Card = new Card("Red","money","Stupid");
+		when(repo.save(card)).thenReturn(card);
+		assertEquals(cardService.create(card),card);
+		verify(repo, Mokito.times(1))save(card);
+			
+		
+	}
+	
+}
