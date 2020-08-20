@@ -1954,3 +1954,13 @@ org.eclipse.jdt.core.JavaModelException: TestExample does not exist
 2020-08-20 11:37:29,067 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-08-20 11:37:29,069 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-08-20 11:37:29,069 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory X:\QA\HTML work\SpringBoot\chyWeb\src\test\resources
+2020-08-20 12:03:19,065 [Worker-71: Launching CommentControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 12:03:19,065 [Worker-71: Launching CommentControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-20 12:03:19,065 [Worker-71: Launching CommentControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-20 12:03:19,066 [Worker-71: Launching CommentControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 12:03:19,067 [Worker-71: Launching CommentControllerTest] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory X:\QA\HTML work\SpringBoot\chyWeb\src\test\resources
+2020-08-20 12:04:25,270 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 12:04:25,270 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-20 12:04:25,270 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-08-20 12:04:25,273 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-20 12:04:25,273 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory X:\QA\HTML work\SpringBoot\chyWeb\src\test\resources
