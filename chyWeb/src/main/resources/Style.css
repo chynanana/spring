@@ -1,0 +1,109 @@
+$enable-shadows : true;
+
+
+
+.box {
+    display: flex;
+    align-items: flex-start;
+    background-color: rgb(7, 7, 7);
+    border: 1px solid rgba(0, 123, 255, .2);
+  }
+
+#review{
+    background-color:red(0, 123, 255, .15);
+    color: red;
+}
+@media (min-width: 992px) and (max-width: 1199.98px) { * }
+
+.director-img-border {
+  padding: 5px;
+}
+
+body{
+  background-color: #21211f !important;
+  text: white !important;
+}
+
+#newCommentForm{
+  background-color: black !important;
+}
+
+.movieDescArea {
+  color: #ffffff;
+}
+
+.commentForm {
+  color: #ffffff;
+}
+
+.commentTable{
+  color: #ffffff;
+}
+
+.directorText{
+  color: #ffffff;
+}
+
+.commentFormText{
+  background-color: #323633;
+  color: #ffffff;
+  border: #21211f;
+  margin: 10px;
+  padding: 10px;
+}
+
+
+.reviewText{
+  color:#ffffff;
+}
+
+.chyrateOuter {
+  color: #ffffff;
+  font-size: 14pt;
+  text-align: center;
+}
+
+.chyrate {
+  color: #ffffff;
+  background-color:#0d0233;
+  font-size: 30pt;
+  padding: 30px;
+  border: 2px solid#d1ae00;
+}
+
+.reviewTitle{
+  color:#ffffff;
+  font-size: 50pt;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.releaseDate{
+  color:#ffffff
+  
+}
+
+.poster {
+  padding: 5px;
+  border-bottom: 2px solid transparent;
+}
+
+.poster:hover {
+  border-color: #ffffff;
+}
+
+.director-movie {
+  color:#ffe499;
+  font-size: 15pt;
+  
+ 
+
+}
+.director-movie:hover {
+  border-color: #ffffff;
+}
+
+.director-name{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:#d5c9ff;
+}
+
