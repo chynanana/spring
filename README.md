@@ -18,6 +18,8 @@ To run my code you will need visual studio code and Spring tool suite. I also us
  #Installing Postman
  In order to add information to my website you will need to have already installed sts and you will then need to download postman at https://www.postman.com/downloads/. 
  Once installed you will be able to get and post information on my website using my methods that can be found in sts. 
+ #Folders
+ In my resources folder you will find my website including the JSON templates for inserting information into my database
  ##Built with
  *Maven
  *Visual studio code
