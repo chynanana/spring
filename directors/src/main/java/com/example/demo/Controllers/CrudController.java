@@ -23,7 +23,7 @@ public class CrudController {
 	DirectRepo repo;
 	
 	@CrossOrigin(origins = "*")
-	@PostMapping("/insert")
+	@PostMapping("/insertDirect")
 	
 	public String insert(@RequestBody Directors x) {
 		repo.save(x);
@@ -31,14 +31,14 @@ public class CrudController {
 	}
 	
 	@CrossOrigin(origins = "*")
-	@GetMapping("/all")
+	@GetMapping("/allDirect")
 	public List<Directors> showAll(){
 		List<Directors> records= repo.findAll();
 		return records;
 	}
 
 	@CrossOrigin(origins = "*")
-	@GetMapping("/save")
+	@GetMapping("/saveDirect")
 	public String saveRecord(@RequestParam String name, @RequestParam String bio, @RequestParam String movie, @RequestParam String img) {
 		Directors s=new Directors();
 		s.setName(name);

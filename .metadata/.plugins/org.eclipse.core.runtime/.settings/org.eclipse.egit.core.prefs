@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=X\:\\QA\\HTML work\\Testing\\TestExample\\.git;
-GitRepositoriesView.GitDirectories.relative=X\:\\QA\\HTML work\\Testing\\TestExample\\.git;
+GitRepositoriesView.GitDirectories=X\:\\QA\\HTML work\\Testing\\TestExample\\.git;X\:\\QA\\HTML work\\SpringBoot\\.git;
+GitRepositoriesView.GitDirectories.relative=X\:\\QA\\HTML work\\Testing\\TestExample\\.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
