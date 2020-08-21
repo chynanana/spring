@@ -41,8 +41,13 @@ INDEX VERSION 1.131+X:\QA\HTML work\SpringBoot\.metadata\.plugins\org.eclipse.jd
 3378895509.index
 983344973.index
 1294768859.index
+<<<<<<< HEAD
 2045865480.index
 257890883.index
+=======
+257890883.index
+2045865480.index
+>>>>>>> f7138b252249bf8d31568708e262b72b8b59a90a
 1126002367.index
 1796567822.index
 3609780560.index

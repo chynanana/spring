@@ -14,7 +14,7 @@ public class BasicSeleniumTest {
 
 	@Before
 	public void setup() {
-		System.setProperty("webdriver.chrome.driver", "X:\\QA\\HTML work\\Drivers\\Chrome\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "X:\\QA\\HTML work\\SpringBoot\\chyWeb\\src\\main\\resources\\chromedriver.exe");
 
 //	        ChromeOptions opts = new ChromeOptions();
 //	        opts.setHeadless(true);
