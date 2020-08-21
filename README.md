@@ -1,6 +1,8 @@
 # Chyrate
 A movie ratings website 
-Coverage: 45.3%
+Coverage: 45.3%#
+#Presentation
+https://docs.google.com/presentation/d/1fyUjXpuNQLou0p4wZfs_fXxKT2sekB7Xyz2ONrHgZOQ/edit?usp=sharing
 
 ##Getting started
 My website can be found on my git hub account at https://github.com/chynanana/spring my code can then be pulled and ran on your local machine.
